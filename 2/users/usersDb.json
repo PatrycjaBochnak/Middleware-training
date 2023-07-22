@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "Jan",
+    "lastName": "Kowalski"
+  },
+
+  {
+    "id": 2,
+    "name": "Katarzyna",
+    "lastName": "Nosowska"
+  },
+
+  {
+    "id": 3,
+    "name": "Kamil",
+    "lastName": "Dratewka"
+  },
+
+  {
+    "id": 4,
+    "name": "Bonifacy",
+    "lastName": "Stonoga"
+  },
+
+  {
+    "id": 5,
+    "name": "Horacy",
+    "lastName": "Kowalski"
+  }
+]
