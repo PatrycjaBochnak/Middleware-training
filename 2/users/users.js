@@ -1,8 +1,5 @@
 const { getDefaultResultOrder } = require("dns");
-const fs = require("fs");
-const path = require("path");
-
-let users = require("./usersDb");
+const mongoose = require("mongoose");
 
 function save() {
   fs.writeFile(
